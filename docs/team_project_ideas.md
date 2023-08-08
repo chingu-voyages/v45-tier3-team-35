@@ -12,7 +12,7 @@ you like the best.
 
 | Project Idea | Description | Lazar | Mohamad | Evgeniy | Briane |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full-Stack ecommerce with admin pannel | Description | |X| | |
-| Second idea | Description | | | | |
+| Full-Stack ecommerce with admin pannel | Similar to [this](https://www.youtube.com/watch?v=5miHyP6lExg&t=22328s) | |X| | |
+| Full-Stack house renting app   | Similar to [this](https://www.youtube.com/watch?v=c_-b_isI4vg) | |X| | |
 | ... | Description | | | | |
 | Last idea | Description | | | | |
