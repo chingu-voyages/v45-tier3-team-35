@@ -12,7 +12,7 @@ you like the best.
 
 | Project Idea | Description | Lazar | Mohamad | Evgeniy | Briane |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | |
+| Full-Stack ecommerce with admin pannel | Description | |X| | |
 | Second idea | Description | | | | |
 | ... | Description | | | | |
 | Last idea | Description | | | | |
