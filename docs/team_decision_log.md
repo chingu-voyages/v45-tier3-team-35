@@ -15,27 +15,27 @@ you like the best.
 |   |	- Knowledge Xfer as needed | | | | |
 |   |	- Working Session Thursday@4:00 p.m. CST | | | | |
 | 2	| Project Backlog Tool | | | | | | |
-|   |	- Notion | | |x|x|
+|   |	- Notion | |X|x|x|
 |   |	- Jira | | | | |
 | 3	| Technical Stack (vote by adding your pref. in the cell under your name) | | | | |
-|   |	- BE Language | | | TS | |
-|   |	- FE Language | | | TS | |
-|   |	- FE Framework | | | Angular | |
+|   |	- BE Language | |TS| TS | |
+|   |	- FE Language | |TS| TS | |
+|   |	- FE Framework | |Nextjs| Angular | |
 |   |	- ML Framework | | | | |
 |   |	- Visualization/Graphics package (if required, e.g. D3, Nivo, etc.) | | | |Apache E-charts|
 | 4	| Where to host the app? | | | | |
 |   |	- Heroku (suitable for FE, BE, & Postgres) | | | | |
 |   |	- Netlify (suitable only for FE) | | | | |
-|   |	- Vercel (suitable only for FE) | | | | |
+|   |	- Vercel (suitable only for FE) | |X| | |
 |   |	- Mongo Atlas (suitable only for MongoDB) | | | | |
 | 5	| BE/FE repos organization | | | | |
 |   |	- Separate GitHub repos for each | | | | |
-|   |	- Single GitHub repo for both | | |x|x|
+|   |	- Single GitHub repo for both | |X|x|x|
 | 6	| Wireframing tool | | | | |
 |   |	- Paper & pencil | | | | |
 |   |	- Adobe XD | | | | |
 |   |	- Balsamiq | | | | |
-|   |	- Figma | | |x|x|
+|   |	- Figma | |X|x|x|
 | 7	| Who works in which part of the app? | | | | |
 |   | - BE (not applicable for Tier 1 teams) | | |x| |
 |   |	- FE | | |x| |
