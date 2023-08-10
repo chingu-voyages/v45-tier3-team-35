@@ -10,9 +10,9 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | Lazar | Mohamad | Evgeniy | Briane |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Full-Stack ecommerce with admin pannel | Similar to [this](https://www.youtube.com/watch?v=5miHyP6lExg&t=22328s) | |X| | |
-| Full-Stack house renting app   | Similar to [this](https://www.youtube.com/watch?v=c_-b_isI4vg) | |X| | |
+| Project Idea | Description | Lazar | Mohamad | Evgeniy | Briane | Farhad |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Full-Stack ecommerce with admin pannel | Similar to [this](https://www.youtube.com/watch?v=5miHyP6lExg&t=22328s) | |X| | |X|
+| Full-Stack house renting app   | Similar to [this](https://www.youtube.com/watch?v=c_-b_isI4vg) | |X| | | |
 | ... | Description | | | | |
-| Last idea | Description | | | | |
+| Last idea | Description | | | | | |
