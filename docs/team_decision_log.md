@@ -18,15 +18,15 @@ you like the best.
 |   |	- Notion | |X|x|x|
 |   |	- Jira | | | | |
 | 3	| Technical Stack (vote by adding your pref. in the cell under your name) | | | | |
-|   |	- BE Language | |TS| TS | |
-|   |	- FE Language | |TS| TS | |
-|   |	- FE Framework | |Nextjs| Angular | |
+|   |	- BE Language | |TS| TS |TS|
+|   |	- FE Language | |TS| TS |TS|
+|   |	- FE Framework | |Nextjs| Angular |Nextjs|
 |   |	- ML Framework | | | | |
 |   |	- Visualization/Graphics package (if required, e.g. D3, Nivo, etc.) | | | |Apache E-charts|
 | 4	| Where to host the app? | | | | |
 |   |	- Heroku (suitable for FE, BE, & Postgres) | | | | |
 |   |	- Netlify (suitable only for FE) | | | | |
-|   |	- Vercel (suitable only for FE) | |X| | |
+|   |	- Vercel (suitable only for FE) | |X| |x|
 |   |	- Mongo Atlas (suitable only for MongoDB) | | | | |
 | 5	| BE/FE repos organization | | | | |
 |   |	- Separate GitHub repos for each | | | | |
@@ -37,7 +37,7 @@ you like the best.
 |   |	- Balsamiq | | | | |
 |   |	- Figma | |X|x|x|
 | 7	| Who works in which part of the app? | | | | |
-|   | - BE (not applicable for Tier 1 teams) | | |x| |
+|   | - BE (not applicable for Tier 1 teams) | | |x|x|
 |   |	- FE | | |x| |
 | 8	| ... | | | | |
 | n | ... | | | | |
