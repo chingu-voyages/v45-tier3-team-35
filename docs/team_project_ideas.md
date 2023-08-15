@@ -14,5 +14,6 @@ you like the best.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Full-Stack ecommerce with admin pannel | Similar to [this](https://www.youtube.com/watch?v=5miHyP6lExg&t=22328s) | |X| | |X|
 | Full-Stack house renting app   | Similar to [this](https://www.youtube.com/watch?v=c_-b_isI4vg) | |X| | | |
+| find common meeting time | friendly online meeting scheduling service accounting for timezones | | X | X | | X |
 | ... | Description | | | | |
 | Last idea | Description | | | | | |
